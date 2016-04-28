@@ -7,8 +7,8 @@
 # 发送邮件的配置，分别是：邮件服务器域名，端口，登录邮箱账号，密码
 mailServer = 'foxmail.com'
 mailPort = 25
-mailUser = 'workforit@foxmail.com'
-mailPasswd = 'atajcfktwoaybcdc'
+mailUser = 'xxx@foxmail.com'
+mailPasswd = 'xxx'
 mailDebug = 1
 mailCopyTo = 'hujintao77@126.com'
 
